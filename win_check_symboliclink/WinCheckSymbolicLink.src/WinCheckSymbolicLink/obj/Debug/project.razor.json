@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\usr\\web\\winapp_various_tool\\win_check_symboliclink\\WinCheckSymbolicLink.src\\WinCheckSymbolicLink\\WinCheckSymbolicLink.csproj",
+  "TargetFramework": "v4.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
